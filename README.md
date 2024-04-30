@@ -1,6 +1,11 @@
-<p>HOLAAA</>
+
   <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Aditya Vikram Singh Banner" style="display: block; margin: auto; width: 100%; max-width: 100%; ">
-<p>HOLAAA</>
+<br/>
+
+
+<p>__________________________________________________________________________________________________________________________________________________________________________________________<p/>
+
+  
 ### 👨🏻‍💻 &nbsp;Sobre mi 
 
 
@@ -47,7 +52,7 @@
       alt="Vazz2004's 
 </p>
 
-
+<br/>
 ### 🤝🏻 &nbsp;Contactame
 
 <p align="center">
