@@ -1,4 +1,6 @@
-  <div class="image-container" style="width: 100%; display: flex; justify-content: center; align-items: center;">
+  <div class="image-container" style="width: 100%; display: flex; ">
+    <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Imagen" style="max-width: 100%; max-height: 100%;">
+    <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Imagen" style="max-width: 100%; max-height: 100%;">
     <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Imagen" style="max-width: 100%; max-height: 100%;">
   </div>
 
