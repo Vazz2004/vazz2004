@@ -1,6 +1,6 @@
-<img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Aditya Vikram Singh Banner" style="display: block; margin: 0 auto; width: 600px;">
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<div class="contenedor" style="text-align: center;">
+  <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Aditya Vikram Singh Banner" style="display: block; margin: 0 auto; width: 100%; max-width: 600px;">
+</div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
