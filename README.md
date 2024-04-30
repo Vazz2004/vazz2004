@@ -28,7 +28,7 @@
 
 
 
-<img alt="Night Coding" src="http://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/ee/31/b8/ee31b81baa799897721dfd6e2d2ab97e.gif" align="right"/>
 
 ### 🛠 &nbsp;diomas de programación que manejp
 
