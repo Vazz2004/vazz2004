@@ -8,7 +8,7 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"></picture> **Acerca de mí**
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250"></picture>
+<picture><img align="right" src="https://i.gifer.com/XZvP.gif" width="250"></picture>
 
 <br>
 
