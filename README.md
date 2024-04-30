@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Aditya Vikram Singh Banner" style="display: block; margin: 0 auto; width: 2000px;">
+<img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Aditya Vikram Singh Banner" style="display: block; margin: 0 auto; width: 600px;">
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
