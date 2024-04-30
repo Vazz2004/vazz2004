@@ -1,33 +1,20 @@
-  <div class="image-container" style="width: 100%; display: flex; ">
-    <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Imagen" style="max-width: 100%; max-height: 100%;">
-    <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Imagen" style="max-width: 100%; max-height: 100%;">
-    <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Imagen" style="max-width: 100%; max-height: 100%;">
-  </div>
+<div align="center">
+  <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Imagen" style="max-width: 100%; max-height: 100%;">
+</div>
 
-<br/>
+---
 
+### 👨🏻‍💻 &nbsp;Sobre mí 
 
-<p>________________________________________________________________________________________________________________<p/>
-
-  
-### 👨🏻‍💻 &nbsp;Sobre mi 
-
-
-💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
-<br/>
-🎓 Actualmente estoy estudiando Ciencias de la Computación y Matemáticas en la Universidad de Massachusetts Amherst.
-<br/>
-🌱 Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.
-<br/>
-✍️ En mi tiempo libre, practico el Diseño Gráfico y la Escritura de Blogs como pasatiempos/trabajos secundarios.
-<br/>
-💬 No dudes en contactarme para consultas pro bono y voluntariado, o simplemente para tener una discusión interesante.
-<br/>
-✉️ Puedes enviarme un correo electrónico a samuelvh2022@gmail.com. Intentaré responder lo antes posible.
-<br/>
+💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.  
+🎓 Actualmente estoy estudiando Ciencias de la Computación y Matemáticas en la Universidad de Massachusetts Amherst.  
+🌱 Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.  
+✍️ En mi tiempo libre, practico el Diseño Gráfico y la Escritura de Blogs como pasatiempos/trabajos secundarios.  
+💬 No dudes en contactarme para consultas pro bono y voluntariado, o simplemente para tener una discusión interesante.  
+✉️ Puedes enviarme un correo electrónico a samuelvh2022@gmail.com. Intentaré responder lo antes posible.  
 📄 Por favor, echa un vistazo a mi currículum para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
-### 🛠 &nbsp;diomas de programación que manejp
+### 🛠 &nbsp;Lenguajes de Programación que manejo
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -40,7 +27,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
-<br/>
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <!--- stats & Trophy (start) -->
@@ -65,24 +53,19 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=vazz2004&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<div align="center">
+  <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=vazz2004&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div>
 <!--- trophy (start) -->
-
 
 </p>        
 <!--- stats (end) -->
 
+---
 
-<br/>
-### 🤝🏻 &nbsp;Contactame
+### 🤝🏻 &nbsp;Contáctame
 
 <p align="center">
-<a href="https://www.linkedin.com/in/samuel-alejandro-vasquez-hernandez-133644305/"><img src="https://img.shields.io/badge/-Samuel%20Vasquez%20Hernandez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/samuel_v_v/?hl=es-la"><img src="https://img.shields.io/badge/-@vazz2004__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samuel-alejandro-vasquez-hernandez-133644305/"><img src="https://img.shields.io/badge/-Samuel%20Vasquez%20Hernandez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/samuel_v_v/?hl=es-la"><img src="https://img.shields.io/badge/-@vazz2004__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
-
