@@ -1,7 +1,7 @@
 
   <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Aditya Vikram Singh Banner" style="display: block; margin: auto; width: 100%; max-width: 100%; ">
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi 
 
 
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
@@ -25,7 +25,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;diomas de programación que manejp
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -43,9 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/Vazz2004">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vazz2004&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Vazz2004's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vazz2004&layout=compact&langs_count=8&theme=algolia" alt="Vazz2004's Top Languages" />
-  </a>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vazz2004&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Vazz2004's 
 </p>
 
 
