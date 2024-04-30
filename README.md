@@ -1,4 +1,5 @@
-![Aditya Vikram Singh Banner](https://i.ibb.co/DMcvSWG/Desarrollador-web.gif){: width="100%"}
+<img src="https://i.ibb.co/DMcvSWG/Desarrollador-web.gif" alt="Aditya Vikram Singh Banner" style="width:100%;">
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
