@@ -1,6 +1,6 @@
-
+<p>HOLAAA</>
   <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Aditya Vikram Singh Banner" style="display: block; margin: auto; width: 100%; max-width: 100%; ">
-
+<p>HOLAAA</>
 ### 👨🏻‍💻 &nbsp;Sobre mi 
 
 
@@ -43,7 +43,8 @@
 
 <p align="center">
   <a href="https://github.com/Vazz2004">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vazz2004&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Vazz2004's 
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vazz2004&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
+      alt="Vazz2004's 
 </p>
 
 
@@ -51,7 +52,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/samuel-alejandro-vasquez-hernandez-133644305/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/samuel_v_v/?hl=es-la"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/samuel_v_v/?hl=es-la"><img src="https://img.shields.io/badge/-@vazz2004__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
