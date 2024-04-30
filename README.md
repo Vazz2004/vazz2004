@@ -1,6 +1,5 @@
-  <div class="background-container" style="width: 100%; height: 300px; background-image: url('https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif'); background-size: cover; background-position: center; display: flex; justify-content: center; align-items: center;">
-    <!-- Contenido opcional dentro del div -->
-    <h1 style="color: white;">Contenido del div</h1>
+  <div class="image-container" style="width: 100%; display: flex; justify-content: center; align-items: center;">
+    <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Imagen" style="max-width: 100%; max-height: 100%;">
   </div>
 
 <br/>
