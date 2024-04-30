@@ -5,6 +5,7 @@
 
 
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
+<br/>
 🎓 Actualmente estoy estudiando Ciencias de la Computación y Matemáticas en la Universidad de Massachusetts Amherst.
 🌱 Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.
 ✍️ En mi tiempo libre, practico el Diseño Gráfico y la Escritura de Blogs como pasatiempos/trabajos secundarios.
