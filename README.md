@@ -3,7 +3,7 @@
 <br/>
 
 
-<p>_______________________________________________________________________________________________________________________________________________<p/>
+<p>________________________________________________________________________________________________________________<p/>
 
   
 ### 👨🏻‍💻 &nbsp;Sobre mi 
@@ -51,6 +51,12 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vazz2004&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
       alt="Vazz2004's 
 </p>
+
+
+
+
+
+
 
 <br/>
 ### 🤝🏻 &nbsp;Contactame
