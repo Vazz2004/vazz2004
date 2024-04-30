@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Imagen" style="max-width: 100%; max-height: 100%;">
+  <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Banner" style="max-width: 100%; max-height: 100%;">
 </div>
 
 ---
 
 ### 👨🏻‍💻 &nbsp;Sobre mí 
 
-💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.  
-🎓 Actualmente estoy estudiando Ciencias de la Computación y Matemáticas en la Universidad de Massachusetts Amherst.  
-🌱 Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.  
-✍️ En mi tiempo libre, practico el Diseño Gráfico y la Escritura de Blogs como pasatiempos/trabajos secundarios.  
-💬 No dudes en contactarme para consultas pro bono y voluntariado, o simplemente para tener una discusión interesante.  
-✉️ Puedes enviarme un correo electrónico a samuelvh2022@gmail.com. Intentaré responder lo antes posible.  
-📄 Por favor, echa un vistazo a mi currículum para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+💡 Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software creativas y eficientes.  
+🎓 Actualmente estoy cursando una licenciatura en Ciencias de la Computación y Matemáticas en la Universidad de Massachusetts Amherst.  
+🌱 Estoy comprometido a ampliar mis conocimientos en Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.  
+✍️ En mi tiempo libre, me gusta experimentar con el Diseño Gráfico y escribir blogs sobre tecnología y desarrollo.  
+💬 No dudes en contactarme para consultas, colaboraciones o simplemente para tener una conversación interesante.  
+✉️ Puedes enviarme un correo electrónico a samuelvh2022@gmail.com, estaré encantado de responderte lo antes posible.  
+📄 Por favor, echa un vistazo a mi [currículum](link_a_tu_cv) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
-### 🛠 &nbsp;Lenguajes de Programación que manejo
+### 🛠 &nbsp;Lenguajes y Herramientas
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -25,6 +25,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
 ---
@@ -40,7 +41,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vazz2004&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vazz2004&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vazz2004&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
