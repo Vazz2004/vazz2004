@@ -23,13 +23,6 @@
 <br/>
 📄 Por favor, echa un vistazo a mi currículum para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
-
-
-
-
-
-<img alt="Night Coding" src="https://i.pinimg.com/originals/ee/31/b8/ee31b81baa799897721dfd6e2d2ab97e.gif" align="right"/>
-
 ### 🛠 &nbsp;diomas de programación que manejp
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
