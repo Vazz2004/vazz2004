@@ -7,12 +7,11 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí 
 
 💡 Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software creativas y eficientes.  
-🎓 Actualmente estoy cursando una licenciatura en Ciencias de la Computación y Matemáticas en la Universidad de Massachusetts Amherst.  
+🎓 Actualmente estoy cursando un tecnologo profecional en analisis y  desarrollo de software 
 🌱 Estoy comprometido a ampliar mis conocimientos en Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.  
 ✍️ En mi tiempo libre, me gusta experimentar con el Diseño Gráfico y escribir blogs sobre tecnología y desarrollo.  
 💬 No dudes en contactarme para consultas, colaboraciones o simplemente para tener una conversación interesante.  
 ✉️ Puedes enviarme un correo electrónico a samuelvh2022@gmail.com, estaré encantado de responderte lo antes posible.  
-📄 Por favor, echa un vistazo a mi [currículum](link_a_tu_cv) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
 ### 🛠 &nbsp;Lenguajes y Herramientas
 
@@ -39,14 +38,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vazz2004&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Vazz2004&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vazz2004&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vazz2004&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vazz2004&theme=nord&layout=compact&hide_title=true"/>
   
   </td>
 </tr>
@@ -55,7 +54,7 @@
 
 <!--- trophy (start) -->
 <div align="center">
-  <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=vazz2004&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Vazz2004&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div>
 <!--- trophy (start) -->
 
