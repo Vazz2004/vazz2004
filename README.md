@@ -8,6 +8,7 @@
 
 💡 Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software creativas y eficientes.  
 🎓 Actualmente estoy cursando un tecnologo profecional en analisis y  desarrollo de software 
+<br/>
 🌱 Estoy comprometido a ampliar mis conocimientos en Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.  
 ✍️ En mi tiempo libre, me gusta experimentar con el Diseño Gráfico y escribir blogs sobre tecnología y desarrollo.  
 💬 No dudes en contactarme para consultas, colaboraciones o simplemente para tener una conversación interesante.  
