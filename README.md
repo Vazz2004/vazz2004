@@ -1,72 +1,107 @@
 <div align="center">
-  <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Banner" style="max-width: 100%; max-height: 70vh;">
+  <img src="https://i.ibb.co/6JXdRB3/Dise-o-sin-t-tulo-1.gif" alt="Banner" style="max-width: 100%;">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F72D&width=435&lines=Hola%2C+Soy+Samuel+Vasquez;Desarrollador+Full+Stack;Apasionado+por+la+IA;Diseñador+Creativo)](https://git.io/typing-svg)
 </div>
 
----
+**¡Sobre Mí!**
 
-### 👨🏻‍💻 &nbsp;Sobre mí 
+- 👨🏽‍💻 Actualmente estudiando Tecnólogo en Análisis y Desarrollo de Software
+- 🌱 Enfocado en aprender Inteligencia Artificial, Diseño de Sistemas y Cloud
+- 🤔 Mis intereses: Desarrollo web fullstack, IA/ML y diseño gráfico
+- 💬 Pregúntame lo que quieras en [samuelvh2022@gmail.com](mailto:samuelvh2022@gmail.com)
+- 🎨 Diseñador gráfico en mis tiempos libres
 
-💡 Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software creativas y eficientes.  
-🎓 Actualmente estoy cursando un tecnologo profecional en analisis y  desarrollo de software 
-<br/>
-🌱 Estoy comprometido a ampliar mis conocimientos en Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.  
-✍️ En mi tiempo libre, me gusta experimentar con el Diseño Gráfico y escribir blogs sobre tecnología y desarrollo.  
-💬 No dudes en contactarme para consultas, colaboraciones o simplemente para tener una conversación interesante.  
-✉️ Puedes enviarme un correo electrónico a samuelvh2022@gmail.com, estaré encantado de responderte lo antes posible.  
-
-### 🛠 &nbsp;Lenguajes y Herramientas
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
----
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Lenguajes Principales</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+  </kbd>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Vazz2004&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vazz2004&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vazz2004&theme=nord&layout=compact&hide_title=true"/>
+  <kbd>
+    <kbd>Frontend</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+  </kbd>
   
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align="center">
-  <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Vazz2004&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</div>
-<!--- trophy (start) -->
-
-</p>        
-<!--- stats (end) -->
-
----
-
-### 🤝🏻 &nbsp;Contáctame
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-alejandro-vasquez-hernandez-133644305/"><img src="https://img.shields.io/badge/-Samuel%20Vasquez%20Hernandez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/samuel_v_v/?hl=es-la"><img src="https://img.shields.io/badge/-@vazz2004__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <kbd>
+    <kbd>Backend</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  </kbd>
+  
+  <kbd>
+    <kbd>Bases de Datos</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  </kbd>
+  
+  <br>
+  <br>
+  
+  <kbd>
+    <kbd>Herramientas</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </kbd>
+  
+  <kbd>
+    <kbd>Diseño</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  </kbd>
+  
+  <kbd>
+    <kbd>Intereses</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  </kbd>
 </p>
+
+![snake gif](https://github.com/Vazz2004/Vazz2004/blob/output/github-contribution-grid-snake.svg)
+
+<h2 align="center"><u>Mis Estadísticas GitHub</u></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vazz2004&layout=compact&theme=github_dark&langs_count=10">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vazz2004&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vazz2004&theme=holi-theme">
+</p>
+
+<div align="center">
+  <h3>Conéctate conmigo</h3>
+  <a href="https://www.linkedin.com/in/samuel-alejandro-vasquez-hernandez-133644305/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/samuel_v_v/?hl=es-la">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:samuelvh2022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+![Visitors](https://komarev.com/ghpvc/?username=Vazz2004&color=blueviolet&style=flat)
